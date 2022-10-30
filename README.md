@@ -72,7 +72,7 @@ Zewail City ranked 1st in Egypt, and 10th in the Arab Region.
 <bt><br>
 
 ## 🚀 Grants & Scholarships
-<br>
+
 
 **Regional Scholarship for International Student Mobility** @ [La Région Auvergne-Rhône-Alpes](https://bourses.auvergnerhonealpes.fr/) _(2022)_ <br>
 
