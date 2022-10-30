@@ -69,6 +69,7 @@ Zewail City ranked 1st in Egypt, and 10th in the Arab Region.
   - Brand Identity Design
   - UX/UI Design
   
+<br><br>
 
 ## 🚀 Grants & Scholarships
 
@@ -77,29 +78,17 @@ Zewail City ranked 1st in Egypt, and 10th in the Arab Region.
 
   - € 1,250 one-time mobility support.
 
-<br>
-
 **French Government Masters Scholarship** @ [Rifaa Al-Tahtawi Program](https://www.egypte.campusfrance.org/en/scholarships-for-egyptian-students-in-france) _(2021)_ <br>
-
   - € 8,000 for one year.
   
-  
-<br>
 
 **COVID-19 Grant for drug screening** @ [Academy of Scientific Research and Technology (ASRT)](http://www.asrt.sci.eg/) _(2020)_ <br>
-
   - € 30,000 equivalent in EGP.
 
-<br>
-
 **(Italian-Egyptian) collaboration grant project for neurotoxins biosensors** @ [Academy of Scientific Research and Technology (ASRT)](http://www.asrt.sci.eg/) _(2018)_ <br>
-
   - € 20,000 equivalent in EGP.
 
-<br>
-
 **Zewail City Scholarship of Excellence (Full Scholarship) for BSc. Studies** @ [Zewail City](https://www.zewailcity.edu.eg/) _(2017-2021)_ <br>
-
   - € 7,500 equivalent in EGP for each year.
 
 <br><br>
