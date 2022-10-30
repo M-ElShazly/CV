@@ -1,91 +1,112 @@
 # Muhamad ElShazly
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+_Dual Degree in Data Science Student Looking for Internships in Machine Learning, based in Germany 🇩🇪_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](muhamadsalahuldin@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhamadelshazly/) / [GitHub](https://github.com/M-ElShazly/) / **Mob.** +33768060267 
 
-## 👩🏼‍💻 Engineering Experience
+## 📖 Education
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+**Dual Degree In Business Informatics (Data Science)** @ [Hochschule Aalen](https://www.hs-aalen.de/de/courses/54) _(Sep 2022 - Present)_ <br>
+
+  - Nominated to this dual degree as the top student of my batch at ESC Clermont Business School.
+
+  - **Skills Focus:** Database technologies, Big data & Data mining, Time Series Analysis, Machine Learning (ML)
+and PredictiveModels. Spark RDDs, Hadoop, Cloud Infrastructure (Docker).
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Master of Science in Business Intelligence & Analytics** @ [ESC Clermont Business School](https://www.esc-clermont.fr/en/programme/msc-business-intelligence-analytics/) _(Sep 2021 - Present)_ <br>
+ESC Clermont Business School Ranked in the Top 100 Master in Management.
+
+  - **_Skills & Technologies used:_** Exploratory Data Analysis (EDA), Data Cleaning & Preparation, Exploratory Data Analysis(EDA), Data Integration & ETL, Data Visualization (PowerBI, MicroStrategy & Tableau), Structured Query Language (SQL), Python, R Programming, and working with Machine Learning (ML) and Predictive Models.
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
+**Bacholer's Degree in Materials Science** @ [Zewail City](https://www.zewailcity.edu.eg/main/content.php?lang=en&alias=materials_science) _(Sep 2017 - Jul 2021)_ <br>
+Zewail City ranked 1st in Egypt, and 10th in the Arab Region.
 
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
+## 🧑‍💼 Work Experience
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
-    
-## 🗞 Journalism Experience
+**Management Consultant** @ [CEO Entrepreneur](https://ceoentrepreneur.com/) _(Oct 2021 - Present)_ <br>
 
-_This section only accounts for work done post-career change._
+  - Worked with 15+ entrepreneurs across United Kingdom, France, Germany, Middle East and UnitedStates to scale and sore their business.
+  - My role focused on checking healthy business practices, and identify barriers hindering achievement of company objectives as well as founders’ personal goals.
+  - Helped multiple entrepreneurs automate and effectively delegate business activities and get the lifestyle of their dreams.
+  - Worked on the development and execution of 1-2 years roadmaps to scale multiple business.
+
+<br> 
+
+**Associate Product Manager** _(Aug 2020 - Present)(https://ceoentrepreneur.com/) _(Oct 2021 - Present)_ <br>
+
+  - Define and manage product vision and development roadmap. [THE FIRESTRARTER PROGRAMME](https://ceoentrepreneur.com/firestarter/)
+  - Communicate product vision & Collaborate with stakeholders to ensure proper execution and timely releases.
+  - Define feedback and A/B testing processes to optimize product performance, and customer results. [CEO Entrepreneur YouTube Channel](https://www.youtube.com/c/CEOEntrepreneur)
+
+<br>
+
+**Co-founder & CEO** @ [Za2d.com Social eCommerce Platform [ACQUIRED]](https://www.facebook.com/groups/250104223638207) _(Sep 2021 - Sep 2022)_ <br>
+
+  - As the CEO, my role included defining values, vision, and mission of the early stage start-up.
+  - Build strategic roadmap of building and releasing our solution to the market.
+  - Modelling efficient data-driven business processes for software development and fulfillment cycle.
+  - The innovative process allowed 25% higher fulfillment rates, for 15-25% lower operating costs.
+  - The 12-months old start-up was acquired by a Swedish Investment Firm at a $125,000 Valuation.
+
+<br>
+
+**Technology Transfer Intern** @ [Valley of Science and Technology at Zewail City](https://www.zewailcity.edu.eg/) _(Jun 2021 - Aug 2021)_ <br>
+
+  - Rotational training in different office departments focusing on Technology Transfer. Patent Applications, and Business Development.
+
+<br>
+
+**Research Assistant** @ [Center For Materials Science at Zewail City](https://www.zewailcity.edu.eg/) _(Jun 2021 - Aug 2021)_ <br>
+
+  - Actively involved in cutting-edge research projects focusing on biosensing and smart materials synthesis. (3 Pending Publications).
+  
+<br>
+
+**Graphic Designer** @ [Freelancer](https://www.linkedin.com/in/muhamadelshazly) _(Aug 2014 - Jul 2020)_ <br>
+
+  - Brand Identity Design
+  - UX/UI Design
+  
+<bt><br>
+
+## 🚀 Grants & Scholarships
+<br>
+
+**Regional Scholarship for International Student Mobility** @ [La Région Auvergne-Rhône-Alpes](https://bourses.auvergnerhonealpes.fr/) _(2022)_ <br>
+
+  - € 1,250 one-time mobility support.
+
+<br>
+
+**French Government Masters Scholarship** @ [Rifaa Al-Tahtawi Program](https://www.egypte.campusfrance.org/en/scholarships-for-egyptian-students-in-france) _(2021)_ <br>
+
+  - € 8,000 for one year.
+  
+  
+<br>
+
+**COVID-19 Grant for drug screening** @ [Academy of Scientific Research and Technology (ASRT)](http://www.asrt.sci.eg/) _(2020)_ <br>
+
+  - € 30,000 equivalent in EGP.
+
+<br>
+
+**(Italian-Egyptian) collaboration grant project for neurotoxins biosensors** @ [Academy of Scientific Research and Technology (ASRT)](http://www.asrt.sci.eg/) _(2018)_ <br>
+
+  - € 20,000 equivalent in EGP.
+
+<br>
+
+**Zewail City Scholarship of Excellence (Full Scholarship) for BSc. Studies** @ [Zewail City](https://www.zewailcity.edu.eg/) _(2017-2021)_ <br>
+
+  - € 7,500 equivalent in EGP for each year.
+
 <br><br>
 
-**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-Online publication that provides insights into how emerging technologies are expanding human sexuality.
-  - Oversee a team of writers and maintain the editorial focus for futurist publication attracting more than 50,000 monthly visitors and 90,000 monthly page views
-  - Develop article ideas for writers and edit work for readability, grammar, and accuracy
-  - Analyze website traffic and social media analytics to improve online reach and ensure optimal SEO performance
+## 📌 Competitions & Hach
 
-_Previously worked as a Reporter from Dec 2020 - Apr 2022_ <br>
-  - Researched and wrote [original stories on sex and technology](https://futureofsex.net/author/carolyn/) for sophisticated online audience
-  - **_Selected articles:_**
-    - [You Can Now Buy Sex Toys from Vending Machines at Berlin’s New Airport](https://futureofsex.net/sex-tech/berlins-new-airport-debuts-sex-toys-vending-machines/)
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Tech Conference Organizers: Sex Tech Breaks Taboos, Not Codes of Conduct](https://futureofsex.net/sex-tech/tech-conference-organizers-sex-tech-breaks-taboos-not-codes-of-conduct/)
-<br><br>
-
-**Freelance Writer** _(Mar 2020 - Present)_ <br>
-Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Silicon Allee](https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
 
 ## 📌 Volunteering
 
