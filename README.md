@@ -34,7 +34,7 @@ Zewail City ranked 1st in Egypt, and 10th in the Arab Region.
 
 <br> 
 
-**Associate Product Manager** _(Aug 2020 - Present)(https://ceoentrepreneur.com/) _(Oct 2021 - Present)_ <br>
+**Associate Product Manager** _[CEO Entrepreneur](https://ceoentrepreneur.com/) _(Aug 2020 - Present)_ <br>
 
   - Define and manage product vision and development roadmap. [THE FIRESTRARTER PROGRAMME](https://ceoentrepreneur.com/firestarter/)
   - Communicate product vision & Collaborate with stakeholders to ensure proper execution and timely releases.
