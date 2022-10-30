@@ -23,6 +23,8 @@ ESC Clermont Business School Ranked in the Top 100 Master in Management.
 **Bacholer's Degree in Materials Science** @ [Zewail City](https://www.zewailcity.edu.eg/main/content.php?lang=en&alias=materials_science) _(Sep 2017 - Jul 2021)_ <br>
 Zewail City ranked 1st in Egypt, and 10th in the Arab Region.
 
+<br><br>
+
 ## 🧑‍💼 Work Experience
 
 **Management Consultant** @ [CEO Entrepreneur](https://ceoentrepreneur.com/) _(Oct 2021 - Present)_ <br>
